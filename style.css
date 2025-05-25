@@ -33,11 +33,11 @@
   position: absolute;
   top: 0;
   left: 0;
-  background: linear-gradient(
-    180deg,
-    rgba(0, 0, 0, 0) 0%,
-    rgba(0, 0, 0, 0.9) 92%
-  );
+
+  background-image: url("img/457734945_1233560304351610_4131963476362294_n.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .iphone .frame-2 {

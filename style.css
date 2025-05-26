@@ -254,39 +254,13 @@
   position: relative;
   flex: 0 0 auto;
 }
-.img-cover-1 {
-  background-image: url("img/Enhancing-Product-Design-with-Generative-AI.jpg");
-}
-.img-cover-2 {
-  background-image: url("img/bbfae80cefc8ab43cceea00e4a0aa5f3.jpg");
-}
-.img-cover-3 {
-  background-image: url("img/56cf538a69f2b56818d5ba0ec914da76.jpg");
-}
 
-/* Avatar autori */
-.avatar-img-1 {
-  background-image: url("img/images.jpeg");
-}
-.avatar-img-2 {
-  background-image: url("img/lifestyle-people-emotions-casual-concept-confident-nice-smiling-asian-woman-cross-arms-chest-confident-ready-help-listening-coworkers-taking-part-conversation_1258-59335.jpg");
-}
-.avatar-img-3 {
-  background-image: url("img/happy-man-student-with-afro-hairdo-shows-white-teeth-being-good-mood-after-classes_273609-16608.jpg");
-}
-
-.image, .image-2, .image-3,
-.avatar-2, .avatar-3, .avatar-4{
+.iphone .image-container {
   display: flex;
   width: 80px;
   height: 80px;
   align-items: flex-start;
   position: relative;
-  
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  border-radius: 10px;
 }
 
 .iphone .image {

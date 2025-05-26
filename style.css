@@ -1053,6 +1053,13 @@
   text-align: center;
 }
 
+.frame-11,
+.frame-12 {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+
 .iphone .frame-11 {
   position: relative;
   width: 35px;

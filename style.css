@@ -263,6 +263,33 @@
   position: relative;
 }
 
+.image {
+  width: 80px;
+  height: 80px;
+  background-image: url("img/Enhancing-Product-Design-with-Generative-AI.jpg");
+  background-size: cover;
+  background-position: center;
+  border-radius: 10px; /* opzionale, per estetica */
+}
+
+.image-2 {
+  width: 80px;
+  height: 80px;
+  background-image: url("img/bbfae80cefc8ab43cceea00e4a0aa5f3.jpg");
+  background-size: cover;
+  background-position: center;
+  border-radius: 10px;
+}
+
+.image-3 {
+  width: 80px;
+  height: 80px;
+  background-image: url("img/56cf538a69f2b56818d5ba0ec914da76.jpg");
+  background-size: cover;
+  background-position: center;
+  border-radius: 10px;
+}
+
 .iphone .image {
   position: relative;
   flex: 1;

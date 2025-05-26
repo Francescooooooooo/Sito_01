@@ -1051,10 +1051,17 @@
   justify-content: center;
   flex: 1;
   text-align: center;
+  gap: 4px;
 }
 
 .frame-11,
 .frame-12 {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+
+.bottom-nav img {
   width: 24px;
   height: 24px;
   object-fit: contain;

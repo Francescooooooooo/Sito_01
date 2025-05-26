@@ -261,6 +261,12 @@
   height: 80px;
   align-items: flex-start;
   position: relative;
+  
+  background-image: url("img/Enhancing-Product-Design-with-Generative-AI.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 10px;
 }
 
 .iphone .image {

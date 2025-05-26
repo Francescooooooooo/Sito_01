@@ -70,7 +70,7 @@ body {
 .iphone .text-wrapper {
   position: relative;
   align-self: stretch;
-  font-family: "Roboto-Bold", Helvetica;
+  font-family: "Roboto", Helvetica;
   font-weight: 700;
   color: #ffffff;
   font-size: 24px;
@@ -82,7 +82,7 @@ body {
 .iphone .p {
   position: relative;
   align-self: stretch;
-  font-family: "Roboto-Regular", Helvetica;
+  font-family: "Roboto", Helvetica;
   font-weight: 400;
   color: #ffffff;
   font-size: 13px;
@@ -154,7 +154,7 @@ body {
   width: 280px;
   top: 16px;
   left: 14px;
-  font-family: "Roboto-Regular", Helvetica;
+  font-family: "Roboto", Helvetica;
   font-weight: 400;
   color: #00000080;
   font-size: 14px;
@@ -231,7 +231,7 @@ body {
   position: relative;
   align-self: stretch;
   margin-top: -1.00px;
-  font-family: "Roboto-Medium", Helvetica;
+  font-family: "Roboto", Helvetica;
   font-weight: 500;
   color: #000000;
   font-size: 18px;
@@ -242,7 +242,7 @@ body {
 .iphone .subtitle {
   position: relative;
   align-self: stretch;
-  font-family: "Roboto-Regular", Helvetica;
+  font-family: "Roboto", Helvetica;
   font-weight: 400;
   color: #00000080;
   font-size: 12px;
@@ -284,7 +284,7 @@ body {
   position: relative;
   align-self: stretch;
   margin-top: -1.00px;
-  font-family: "Roboto-Bold", Helvetica;
+  font-family: "Roboto", Helvetica;
   font-weight: 700;
   color: #000000;
   font-size: 16px;
@@ -320,7 +320,7 @@ body {
   position: relative;
   width: fit-content;
   margin-top: -0.50px;
-  font-family: "Roboto-Medium", Helvetica;
+  font-family: "Roboto", Helvetica;
   font-weight: 500;
   color: #000000;
   font-size: 12px;
@@ -346,7 +346,7 @@ body {
 .iphone .subtitle-2 {
   position: relative;
   align-self: stretch;
-  font-family: "Roboto-Regular", Helvetica;
+  font-family: "Roboto", Helvetica;
   font-weight: 400;
   color: #000000;
   font-size: 13px;
@@ -388,7 +388,7 @@ body {
   position: relative;
   align-self: stretch;
   margin-top: -1.00px;
-  font-family: "Roboto-Medium", Helvetica;
+  font-family: "Roboto", Helvetica;
   font-weight: 500;
   color: #000000;
   font-size: 12px;
@@ -534,7 +534,7 @@ body {
   flex: 1;
   height: 32px;
   margin-top: -1.00px;
-  font-family: "Roboto-Medium", Helvetica;
+  font-family: "Roboto", Helvetica;
   font-weight: 500;
   color: #000000;
   font-size: 14px;
@@ -563,7 +563,7 @@ body {
 .iphone .title-5 {
   position: relative;
   flex: 1;
-  font-family: "Roboto-Medium", Helvetica;
+  font-family: "Roboto", Helvetica;
   font-weight: 500;
   color: #000000;
   font-size: 14px;
@@ -625,7 +625,7 @@ body {
   position: relative;
   align-self: stretch;
   margin-top: -1.00px;
-  font-family: "Roboto-Bold", Helvetica;
+  font-family: "Roboto", Helvetica;
   font-weight: 700;
   color: #000000;
   font-size: 14px;
@@ -636,7 +636,7 @@ body {
 .iphone .subtitle-3 {
   position: relative;
   width: 90px;
-  font-family: "Roboto-Medium", Helvetica;
+  font-family: "Roboto", Helvetica;
   font-weight: 500;
   color: #000000;
   font-size: 14px;
@@ -657,7 +657,7 @@ body {
 .iphone .subtitle-4 {
   position: relative;
   width: fit-content;
-  font-family: "Roboto-Medium", Helvetica;
+  font-family: "Roboto", Helvetica;
   font-weight: 500;
   color: #000000;
   font-size: 14px;
@@ -704,7 +704,7 @@ body {
   flex: 1;
   align-self: stretch;
   margin-top: -1.00px;
-  font-family: "Roboto-Medium", Helvetica;
+  font-family: "Roboto", Helvetica;
   font-weight: 500;
   color: #000000;
   font-size: 18px;
@@ -717,7 +717,7 @@ body {
   position: relative;
   flex: 1;
   align-self: stretch;
-  font-family: "Roboto-Regular", Helvetica;
+  font-family: "Roboto", Helvetica;
   font-weight: 400;
   color: #00000080;
   font-size: 12px;
@@ -782,7 +782,7 @@ body {
   position: relative;
   width: fit-content;
   margin-top: -1.00px;
-  font-family: "Roboto-Medium", Helvetica;
+  font-family: "Roboto", Helvetica;
   font-weight: 500;
   color: #ffffff;
   font-size: 12px;
@@ -807,7 +807,7 @@ body {
   position: relative;
   align-self: stretch;
   margin-top: -1.00px;
-  font-family: "Roboto-Regular", Helvetica;
+  font-family: "Roboto", Helvetica;
   font-weight: 400;
   color: #000000;
   font-size: 12px;
@@ -819,7 +819,7 @@ body {
   position: relative;
   align-self: stretch;
   height: 48px;
-  font-family: "Roboto-Medium", Helvetica;
+  font-family: "Roboto", Helvetica;
   font-weight: 500;
   color: #000000;
   font-size: 16px;
@@ -892,7 +892,7 @@ body {
   width: fit-content;
   margin-top: -10.00px;
   margin-bottom: -8.00px;
-  font-family: "Roboto-Medium", Helvetica;
+  font-family: "Roboto", Helvetica;
   font-weight: 500;
   color: #ffffff;
   font-size: 12px;
@@ -922,7 +922,7 @@ body {
   width: 346px;
   top: 27px;
   left: 12px;
-  font-family: "Roboto-Medium", Helvetica;
+  font-family: "Roboto", Helvetica;
   font-weight: 500;
   color: #000000;
   font-size: 18px;
@@ -936,7 +936,7 @@ body {
   width: 346px;
   top: 56px;
   left: 12px;
-  font-family: "Roboto-Regular", Helvetica;
+  font-family: "Roboto", Helvetica;
   font-weight: 400;
   color: #00000080;
   font-size: 12px;
@@ -970,7 +970,7 @@ body {
   width: 21px;
   height: 24px;
   margin-top: -1.00px;
-  font-family: "Roboto-Medium", Helvetica;
+  font-family: "Roboto", Helvetica;
   font-weight: 500;
   color: #000000;
   font-size: 18px;
@@ -994,7 +994,7 @@ body {
   align-self: stretch;
   height: 24px;
   margin-top: -1.00px;
-  font-family: "Roboto-Medium", Helvetica;
+  font-family: "Roboto", Helvetica;
   font-weight: 500;
   color: #000000;
   font-size: 14px;
@@ -1007,7 +1007,7 @@ body {
   position: relative;
   width: 297px;
   height: 32px;
-  font-family: "Roboto-Regular", Helvetica;
+  font-family: "Roboto", Helvetica;
   font-weight: 400;
   color: #00000080;
   font-size: 12px;
@@ -1083,7 +1083,7 @@ body {
   position: relative;
   align-self: stretch;
   height: 14px;
-  font-family: "Roboto-Medium", Helvetica;
+  font-family: "Roboto", Helvetica;
   font-weight: 500;
   color: #0696a7;
   font-size: 12px;
@@ -1102,7 +1102,7 @@ body {
   position: relative;
   align-self: stretch;
   height: 14px;
-  font-family: "Roboto-Medium", Helvetica;
+  font-family: "Roboto", Helvetica;
   font-weight: 500;
   color: #000000;
   font-size: 12px;

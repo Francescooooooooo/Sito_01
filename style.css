@@ -1031,7 +1031,8 @@
 
 .iphone .bottom-nav {
   display: flex;
-  width: 390px;
+  width: 100%;
+  max-width: 390px;
   height: 74px;
   align-items: center;
   justify-content: space-around; /* distribuisce le icone */
@@ -1047,10 +1048,9 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 4px;
-  position: relative;
+  justify-content: center;
   flex: 1;
-  flex-grow: 1;
+  text-align: center;
 }
 
 .iphone .frame-11 {

@@ -269,7 +269,7 @@
   align-self: stretch;
   flex-grow: 1;
   border-radius: 10px;
-  background-image: url(img/project01.jpg);
+  background-image: url(img/paper01.jpg);
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -416,7 +416,7 @@
   align-self: stretch;
   flex-grow: 1;
   border-radius: 10px;
-  background-image: url(./img/image.png);
+  background-image: url(./img/paper02.jpg);
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -426,7 +426,7 @@
   width: 30px;
   height: 30px;
   border-radius: 20px;
-  background-image: url(./img/avatar-3.png);
+  background-image: url(./img/avatar02.png);
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -445,7 +445,7 @@
   align-self: stretch;
   flex-grow: 1;
   border-radius: 10px;
-  background-image: url(./img/image-5.png);
+  background-image: url(./img/paper03.jpg);
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -455,7 +455,7 @@
   width: 30px;
   height: 30px;
   border-radius: 20px;
-  background-image: url(./img/avatar.png);
+  background-image: url(./img/avatar03.png);
   background-size: cover;
   background-position: 50% 50%;
 }

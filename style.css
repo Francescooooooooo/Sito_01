@@ -831,7 +831,7 @@
   flex: 1;
   align-self: stretch;
   flex-grow: 1;
-  background-image: url(./img/image-4.png);
+  background-image: url(./img/project02.jpg);
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -851,7 +851,7 @@
   flex: 1;
   align-self: stretch;
   flex-grow: 1;
-  background-image: url(./img/image-6.png);
+  background-image: url(./img/project03.jpg);
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -861,7 +861,7 @@
   flex: 1;
   align-self: stretch;
   flex-grow: 1;
-  background-image: url(./img/image-2.png);
+  background-image: url(./img/project04.jpg);
   background-size: cover;
   background-position: 50% 50%;
 }
